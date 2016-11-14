@@ -3508,7 +3508,7 @@ if(json.email !=&apos;a.vedmedenko@mobidev.biz&apos; ) {
             <sampleCount>true</sampleCount>
           </value>
         </objProp>
-        <stringProp name="filename">D:\GO_Chat.xml</stringProp>
+        <stringProp name="filename">GO_Chat.xml</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
