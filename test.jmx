@@ -3479,7 +3479,7 @@ if(json.email !=&apos;a.vedmedenko@mobidev.biz&apos; ) {
         <hashTree/>
       </hashTree>
       <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
-        <boolProp name="ResultCollector.error_logging">false</boolProp>
+        <boolProp name="ResultCollector.error_logging">true</boolProp>
         <objProp>
           <name>saveConfig</name>
           <value class="SampleSaveConfiguration">
@@ -3508,7 +3508,7 @@ if(json.email !=&apos;a.vedmedenko@mobidev.biz&apos; ) {
             <sampleCount>true</sampleCount>
           </value>
         </objProp>
-        <stringProp name="filename">D:\StoryFlow.xml</stringProp>
+        <stringProp name="filename">D:\GO_Chat.xml</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
